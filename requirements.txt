@@ -1,0 +1,12 @@
+streamlit>=1.18
+transformers>=4.30
+torch>=1.12
+numpy
+pillow
+matplotlib
+scikit-learn
+textblob
+SpeechRecognition
+pydub
+python-dotenv
+streamlit-audiorecorder
