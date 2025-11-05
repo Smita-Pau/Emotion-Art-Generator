@@ -31,10 +31,3 @@ git clone https://github.com/YOUR-USERNAME/emotion-art.git
 cd emotion-art
 pip install -r requirements.txt
 streamlit run app.py
-
-# Emotion Art Generator
-
-This is a Streamlit app that generates art based on emotions.
-
-🔗 **Open the App:** [https://emotion-art-generator-et6abxsgzsesotuskjen9v.streamlit.app/]
-
