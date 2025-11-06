@@ -19,6 +19,7 @@ Speak or type how you feel → AI senses emotion → Creates art based on emotio
 Python • Streamlit • TextBlob • Pillow • SpeechRecognition • NumPy
 
 ## 📂 Structure
+
 emotion-art/
 │
 ├── app.py
@@ -29,9 +30,7 @@ emotion-art/
 ├── requirements.txt
 ├── README.md
 │
-└── assets/
-    ├── sample_art.png
-    └── ui_preview.png
+└── assets
 
 ## ⚙️ Installation
 ```bash
