@@ -20,10 +20,18 @@ Python • Streamlit • TextBlob • Pillow • SpeechRecognition • NumPy
 
 ## 📂 Structure
 emotion-art/
-│── app.py  
-│── requirements.txt  
-│── README.md  
-└── assets/  
+│
+├── app.py
+├── artgen.py
+├── nlp.py
+├── utils.py
+│
+├── requirements.txt
+├── README.md
+│
+└── assets/
+    ├── sample_art.png
+    └── ui_preview.png
 
 ## ⚙️ Installation
 ```bash
